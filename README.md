@@ -1,1 +1,1 @@
-# NETC WhitePaper
+# NECT WhitePaper
